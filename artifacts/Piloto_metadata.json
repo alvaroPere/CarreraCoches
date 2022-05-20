@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/CarreraCoches/piloto.sol": "Piloto"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/CarreraCoches/piloto.sol": {
+			"keccak256": "0x005c6b2715145947478da9d7200864ebdd2416b5c8f8b325723f360b6797b7bb",
+			"urls": [
+				"bzz-raw://4aa6057549bdb3a723cef1f4f67c9f62e34a5fab5bcba55ee452b5891f858f36",
+				"dweb:/ipfs/QmQivkVik8s7wh68CrD7KwkU1Xa6g2s7HcQYwGvUMhNk6C"
+			]
+		}
+	},
+	"version": 1
+}

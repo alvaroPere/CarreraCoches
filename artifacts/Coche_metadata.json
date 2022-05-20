@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/CarreraCoches/coches.sol": "Coche"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/CarreraCoches/coches.sol": {
+			"keccak256": "0x73ce906dae3737bb5275ddfd5ac76d98833fe90f769ca65a407009d74132a89c",
+			"urls": [
+				"bzz-raw://ecf2ff1474f8281d403ded2e89dbd1485b5f768056934e8d22f10f69676143d2",
+				"dweb:/ipfs/QmTs9aiZpgiYNPJwLZj8rK9MCnrV6AhSpoQfjKfS5Jwkok"
+			]
+		}
+	},
+	"version": 1
+}
